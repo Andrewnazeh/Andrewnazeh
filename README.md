@@ -11,7 +11,7 @@ Passionate about building scalable and efficient backend systems. I specialize i
 ## 🔧 Technologies & Tools  
 - **Languages**: JavaScript, TypeScript, C#  
 - **Backend**: Node.js (Express.js, NestJS), .NET Core  
-- **Databases**: MongoDB, PostgreSQL, MySQL, SQL Server  
+- **Databases**: MongoDB, MySQL, SQL Server  
 - **Real-Time**: WebSockets, SignalR  
 - **Cloud & DevOps**: Docker, Azure, AWS  
 - **Version Control**: Git & GitHub  
@@ -35,7 +35,7 @@ A WebSockets-powered **to-do list** for instant updates across multiple devices.
 ---
 
 ## 📫 Connect with Me  
-💼 [LinkedIn](#) | 🐦 [Twitter](#) | 📧 [Email](#)  
+💼 [LinkedIn](www.linkedin.com/in/andrew-nazeh-93b018217) | 🐦 [Portfolio](https://andrewnazeh.github.io/Andrewnazeh-Portfolio/) | 📧 [Email](andronazeh70@gmail.com)  
 
 💡 **Looking for a developer?** Feel free to reach out for collaborations or freelance work!  
 
