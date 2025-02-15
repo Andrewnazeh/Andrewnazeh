@@ -35,7 +35,7 @@ A WebSockets-powered **to-do list** for instant updates across multiple devices.
 ---
 
 ## 📫 Connect with Me  
-💼 [LinkedIn](https://www.linkedin.com/in/andrew-nazeh-93b018217) | 🐦 [Portfolio](https://andrewnazeh.github.io/Andrewnazeh-Portfolio/) | 📧 [Email](andronazeh70@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/andrew-nazeh-93b018217) | 🐦 [Portfolio](https://andrewnazeh.github.io/Andrewnazeh-Portfolio/) | 📧 [Email](https://andronazeh70@gmail.com)  
 
 💡 **Looking for a developer?** Feel free to reach out for collaborations or freelance work!  
 
