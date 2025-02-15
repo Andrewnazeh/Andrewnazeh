@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Andrew Nazeh 
 
 🚀 **Software Developer | Backend Engineer | .NET & Node.js Enthusiast**  
 
-Passionate about building scalable and efficient backend systems. I specialize in **.NET Core, Node.js, and real-time applications**. Always eager to learn and contribute to open-source projects.  
+Graduated from computer science, Passionate about building scalable and efficient backend systems. I specialize in **.NET Core, Node.js, and real-time applications**. Always eager to learn and contribute to open-source projects.  
 
 ---
 
